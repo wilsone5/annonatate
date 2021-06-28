@@ -1,0 +1,30 @@
+---
+canvas: "https://media.library.ohio.edu/digital/iiif/p15808coll4/2906/full/full/0/default.jpg"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Decorative spine with gold stamping",
+            "purpose": "commenting",
+            "creator": {
+                "id": "wilsone5",
+                "name": "wilsone5"
+            },
+            "created": "2021-06-28T18:59:15.404Z",
+            "modified": "2021-06-28T18:59:43.089Z"
+        }
+    ],
+    "target": {
+        "source": "https://media.library.ohio.edu/digital/iiif/p15808coll4/2906/full/full/0/default.jpg",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:358.84918212890625,238.18768310546875,658.3225708007812,3373.9033813476562"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "{{site.url}}{{site.baseurl}}/annotations/3dfb1700-721a-4b1a-b53e-4cf13a362f1b.json"
+}
