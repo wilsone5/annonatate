@@ -1,0 +1,17 @@
+---
+canvas: "https://media.library.ohio.edu/digital/iiif/p15808coll4/2906/full/full/0/default.jpg"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [],
+    "target": {
+        "source": "https://media.library.ohio.edu/digital/iiif/p15808coll4/2906/full/full/0/default.jpg",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"334.84783935546875,2530.796630859375 321.1327819824219,3295.410888671875 516.572265625,3309.1259765625 530.287353515625,2527.367919921875 516.572265625,2523.939208984375\"></polygon></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "{{site.url}}{{site.baseurl}}/annotations/c413311f-9fe0-41ac-a878-2ec9591be8f1.json"
+}
