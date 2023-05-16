@@ -1,0 +1,14 @@
+---
+---
+{
+    "label": "Test collection",
+    "type": "storyboardlist",
+    "items": [
+        {
+            "board": "<iiif-storyboard annotationurl='https://wilsone5.github.io/annonatate/annotations/p15808coll4-2906-0-list.json'></iiif-storyboard>",
+            "title": "",
+            "description": "",
+            "thumbnail": ""
+        }
+    ]
+}
